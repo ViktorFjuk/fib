@@ -1,13 +1,15 @@
 package main
 
-import (
-    "fmt"
-		
+import( "fmt"
 
-     t"github.com/ViktorFjuk/fib"
+t"github.com/ViktorFjuk/fib"
+
 )
 
 func main() {
     fmt.Println("Fanstastikse Fibonacci!")
     fmt.Println(t.Fib(10))
 }
+
+
+
