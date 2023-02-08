@@ -1,3 +1,3 @@
-module github.com/Viktor_Fjuk/fib
+module github.com/ViktorFjuk/fib
 
 go 1.19
